@@ -38,7 +38,6 @@ function Projects() {
               isBlog={false}
               title="Ingenium"
               description="A website to manage and organise concerts and other events"
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://www.ingenium.biz/"
             />
           </Col>
